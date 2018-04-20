@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import Tabs from './components/tabs.vue'
+import Tabs from './tabs.vue'
 import './assets/less/site.less'
 export default {
   components: {Tabs}
